@@ -1,0 +1,18 @@
+header	{
+	color: white;
+	margin-top:300px;
+}
+
+body {	
+background-image: url(tshirts.jpg);
+background-size:cover;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-family: Montserrat;
+	color: red;
+	font-weight: bold;
+	font-size: 500%;
+
+	}
